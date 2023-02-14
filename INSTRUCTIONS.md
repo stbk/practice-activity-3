@@ -12,4 +12,3 @@ Feb 19, 10:00AM (Almaty time)
 
 # What to do
 1. Put your solutions to problem A into folder `problem-A`, solutions to problem B into folder `problem-B`, etc.
-2. For each problem create a `Main.java` class that shows how your code works. 
